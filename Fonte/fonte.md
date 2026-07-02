@@ -116,4 +116,4 @@ $$C = \frac{180}{475200} \approx 378.38\,\mu\text{F}$$
 
 ### Integrantes
 Gabriel Augusto Pereira Maia - 18117372 <br>
-Crystian
+Chrystian Eloy de Assunção - 18115512
