@@ -1,4 +1,4 @@
-# Fonte-Eletronica-USP
+# Fonte Ajustavel
 Projeto de uma fonte ajustável para disciplina Eletrônica para Computação USP
 
 ## Sobre
