@@ -115,5 +115,5 @@ $$C = \frac{180}{475200} \approx 378.38\,\mu\text{F}$$
 * **Componente comercial sugerido:** **$470\,\mu\text{F}$ — $50\text{ V}$**
 
 ### Integrantes
-Gabriel Augusto Pereira Maia - 18117372
+Gabriel Augusto Pereira Maia - 18117372 <br>
 Crystian
